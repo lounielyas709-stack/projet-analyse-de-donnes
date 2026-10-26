@@ -40,7 +40,19 @@ pip install -r requirements.txt
 
 ## Principaux résultats
 
-À compléter.
+1. **L'IA a envahi Hacker News après ChatGPT.** Sa part dans les articles populaires passe de 1,5 % avant novembre 2022 à 9,4 % après, avec un record de 15,7 % en février 2026.
+
+![Part des articles sur l'IA par mois](figures/part_ia_par_mois.png)
+
+2. **Les articles sur l'IA font davantage débattre, mais depuis 2024 seulement** : 162 commentaires médians en 2026, contre 113 pour les autres sujets.
+3. **Seules les grandes sorties de modèles font réagir Hacker News, et le jour même** : environ un tiers d'articles sur l'IA en plus le jour d'une sortie majeure (GPT-4, Claude 3, Gemini…), aucun effet pour l'ensemble des sorties.
+
+![Articles sur l'IA autour des sorties de modèles](figures/effet_sorties.png)
+
+4. **Google domine la production de modèles** (295 depuis 2020, deux fois plus que Meta), et les États-Unis devant la Chine. La part des modèles à poids ouverts a culminé à 60 % en 2023 avant de reculer.
+5. **La puissance de calcul des modèles est multipliée par 3,9 chaque année depuis 2010**, contre 1,5 avant : un doublement tous les 6 mois.
+
+![Puissance de calcul des modèles dans le temps](figures/puissance_de_calcul.png)
 
 ## Limites
 
